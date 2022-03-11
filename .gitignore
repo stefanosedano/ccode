@@ -1,0 +1,15 @@
+**/__pycache__
+**/**/__pycache__
+Untitled.ipynb
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
+.env
+variables/zS_NDVI_NBR/intermediate/*
+variables/zS_GEE/intermediate/*
+variables/ACLED/intermediate/*
+variables/WDI/intermediate/*
+variables/VDEM/intermediate/*
+variables/zS_ASAP/intermediate/*
+variables/NLP/intermediate/*
+variables/IMF/intermediate/*
+reference_datasets/*
+
